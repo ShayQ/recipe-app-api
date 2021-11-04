@@ -14,7 +14,6 @@ This is a fully functioning REST API that can handle:
   * Creating objects
   * Filtering and sorting objects
   * Uploading and viewing images
-  * You’ll also learn, in detail how to:
   * Setup a project with Docker and Docker-Compose
   * Configure Travis-CI to automatically run linting and unit tests
   * Write unit tests using the Django Test Framework
@@ -22,8 +21,6 @@ This is a fully functioning REST API that can handle:
   * Handle uploading media files with Django
   * Customize the Django admin
   * Configure a Postgres database
-
-This course has one singular focus: To teach you how to create an advanced API from start to finish using best practice principles and Test Driven Development.
 
 # What I've learned
   * Setting up a local development server with Docker
