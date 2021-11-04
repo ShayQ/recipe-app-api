@@ -2,7 +2,7 @@
 Project aimed to create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD)
 
 # How to use
-clone and run with 'docker-compose up' to start up the docker containerization
+Clone and run with 'docker-compose up' to start up the docker containerization
 
 # About
 This project is an advanced recipe API that allows you to upload and store some of your favourite recipes from photos and the web.
