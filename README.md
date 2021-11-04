@@ -1,4 +1,4 @@
-# recipe-app-api
+# Recipe App Api
 Project aimed to create an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD)
 
 # How to use
